@@ -79,7 +79,7 @@
 
 ###
 
-<p align="left">✨ Analyzing data and making real business decisions since 2025<br>📚 I'm currently learning FastAPI & Agentic AI<br>🎯 Goals: Working with Data make & Business decision<br>🎲 Fun fact: AI generate code and analysis but Who drive AI?</p>
+<p align="left">✨ Analyzing data and making real business decisions since 2025<br>📚 I'm currently learning FastAPI & Agentic AI<br>🎯 Goals: Working with Data & making Business decision<br>🎲 Fun fact: AI generate code and analysis but Who drive AI?</p>
 
 
 
