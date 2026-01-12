@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+# Skills & Tools
 
 ###
 
@@ -20,6 +20,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <img src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" height="40" alt="requests logo"  />
+  <img width="12" /><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
@@ -41,7 +50,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="power bi logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker studio logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" height="40" alt="google analytics logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" height="40" alt="dbeaver logo"  />
+  <img width="12" />
+  <img src="https://tableplus.com/resources/favicons/apple-icon-180x180.png" height="40" alt="tableplus logo"  />
+  <img width="12" />
+
 </div>
 
 ###
