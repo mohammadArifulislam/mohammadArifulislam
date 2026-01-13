@@ -63,6 +63,18 @@
   <img width="12" />
   <img src="https://tableplus.com/resources/favicons/apple-icon-180x180.png" height="40" alt="tableplus logo"  />
   <img width="12" />
+  <img src="https://claude.ai/images/claude_app_icon.png" height="40" alt="claude logo" style="opacity: 1; mix-blend-mode: multiply;" />
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" height="40" alt="microsoft copilot logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt logo" />
+  <img width="12" />
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="40" alt="gemini logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" height="40" alt="machine learning logo" />
+  <img width="12" />
+
+
 
 </div>
 
