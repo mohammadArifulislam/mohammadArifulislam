@@ -80,6 +80,10 @@
 
 ###
 
+## My Role
+
+“I work as a Decision Support Analyst. My role is to take your existing business data, clean and analyze it, and then translate it into short, decision-ready briefs and KPI signals that help management decide what to do next. I don’t replace management or execute strategy — I reduce decision time and uncertainty.”
+
 <!-- Add the rest of your profile content below -->
 
 ## My Statement
