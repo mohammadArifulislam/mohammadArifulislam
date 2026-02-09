@@ -1,7 +1,7 @@
 # Mohammad Ariful Islam
 **My GitHub profile repository**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&background=0A1628&center=true&vCenter=true&width=1200&height=250&lines=Data+Analysis+%26+Business+Intelligence;Turning+Data+for+Actionable+Data-Driven-Decision-Making"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=36&duration=3000&pause=1000&color=00D9FF&background=0A1628&center=true&vCenter=true&width=1200&height=250&lines=Decision+Support+Analyst;Decision+Clarity+for+Leadership+%26+Management"
        alt="Banner — Data Analysis & Business Intelligence"
        style="max-width:100%;height:auto;">
 </p>
@@ -84,8 +84,11 @@
 
 ## My Statement
 
-"I'm a data analyst & business intelligent passionate about uncovering insights & information from data to assist organizations or professionals to make actionable data-driven-decisions."
-"In futuristic world, Information is Power. I believe the biggest weapon in today’s world is information. I’m very much passionate about transforming raw data into meaningful, actionable insights that support data-driven decision-making. While AI is brilliant at generating Analysis & Visuals, we specialize in the crucial step: generating the decisions that make processes faster, smoother, smarter and more strategic."
+“I help leadership teams make faster, higher-quality decisions by converting raw data into concise, decision-ready briefs.”
+
+I help founders and management teams make faster, clearer decisions by turning messy business data into decision-ready insights, operational priorities, and executive KPI signals.
+While AI is brilliant at generating Analysis & Visuals, we specialize in the crucial step: understanding business context and generating the decision support that can make processes faster, smoother, smarter and more strategic.
+
 
 ##  About me
 
