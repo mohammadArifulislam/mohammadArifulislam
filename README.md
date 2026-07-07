@@ -35,6 +35,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
   <a href="https://www.mysql.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/></a>&nbsp;
+  <a href="https://app.diagrams.net">
+    <a href="https://app.diagrams.net">
   <a href="https://fastapi.tiangolo.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com">
@@ -47,8 +51,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
   <a href="https://www.sqlite.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.kaggle.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/></a>&nbsp;
   <a href="https://www.anaconda.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/></a>&nbsp;
   <a href="https://powerbi.microsoft.com">
@@ -77,10 +79,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" title="Machine Learning" alt="Machine Learning" width="40" height="40"/></a>&nbsp;
   <a href="https://www.notion.so">
     <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" title="Notion" alt="Notion" width="40" height="40"/></a>&nbsp;
-<a href="https://www.microsoft.com/en-us/sql-server">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/></a>&nbsp;
-  <a href="https://app.diagrams.net">
-    <a href="https://app.diagrams.net">
+
 
 </div>
 
