@@ -73,6 +73,8 @@
   <img width="12" />
   <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" height="40" alt="machine learning logo" />
   <img width="12" />
+<img src="https://img.icons8.com/ios-filled/50/000000/notion.png" height="40" alt="notion logo" />
+<img width="12" />
 
 
 
