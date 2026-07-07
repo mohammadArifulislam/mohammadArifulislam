@@ -14,69 +14,73 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo"  />
-  <img width="12" />
-  <img src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" height="40" alt="requests logo"  />
-  <img width="12" /><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="power bi logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="looker studio logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" height="40" alt="google analytics logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" height="40" alt="dbeaver logo"  />
-  <img width="12" />
-  <img src="https://tableplus.com/resources/favicons/apple-icon-180x180.png" height="40" alt="tableplus logo"  />
-  <img width="12" />
-  <img src="https://claude.ai/images/claude_app_icon.png" height="40" alt="claude logo" style="opacity: 1; mix-blend-mode: multiply;" />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" height="40" alt="microsoft copilot logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt logo" />
-  <img width="12" />
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" height="40" alt="gemini logo" />
-  <img width="12" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" height="40" alt="machine learning logo" />
-  <img width="12" />
-<img src="https://img.icons8.com/ios-filled/50/000000/notion.png" height="40" alt="notion logo" />
-<img width="12" />
-
-
+<div>
+  <a href="https://www.python.org" rel="nofollow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+  <a href="https://numpy.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/></a>&nbsp;
+  <a href="https://pandas.pydata.org" rel="nofollow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a>&nbsp;
+  <a href="https://matplotlib.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/></a>&nbsp;
+  <a href="https://seaborn.pydata.org">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/></a>&nbsp;
+  <a href="https://scikit-learn.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/></a>&nbsp;
+  <a href="https://requests.readthedocs.io">
+    <img src="https://docs.python-requests.org/en/latest/_static/requests-sidebar.png" title="Requests" alt="Requests" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.selenium.dev">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" title="Selenium" alt="Selenium" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.postgresql.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.mysql.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>&nbsp;
+  <a href="https://fastapi.tiangolo.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/></a>&nbsp;
+  <a href="https://code.visualstudio.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/></a>&nbsp;
+  <a href="https://git-scm.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>&nbsp;
+  <a href="https://github.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/></a>&nbsp;
+  <a href="https://jupyter.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.sqlite.org">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.kaggle.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.anaconda.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/></a>&nbsp;
+  <a href="https://powerbi.microsoft.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.tableau.com">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/></a>&nbsp;
+  <a href="https://lookerstudio.google.com">
+    <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" title="Looker Studio" alt="Looker Studio" width="40" height="40"/></a>&nbsp;
+  <a href="https://analytics.google.com">
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" title="Google Analytics" alt="Google Analytics" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.oracle.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/></a>&nbsp;
+  <a href="https://dbeaver.io">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/></a>&nbsp;
+  <a href="https://tableplus.com">
+    <img src="https://tableplus.com/resources/favicons/apple-icon-180x180.png" title="TablePlus" alt="TablePlus" width="40" height="40"/></a>&nbsp;
+  <a href="https://claude.ai">
+    <img src="https://claude.ai/images/claude_app_icon.png" title="Claude AI" alt="Claude AI" width="40" height="40" style="mix-blend-mode: multiply;"/></a>&nbsp;
+  <a href="https://copilot.microsoft.com">
+    <img src="https://img.icons8.com/fluency/48/microsoft-copilot.png" title="Microsoft Copilot" alt="Microsoft Copilot" width="40" height="40"/></a>&nbsp;
+  <a href="https://chatgpt.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/></a>&nbsp;
+  <a href="https://gemini.google.com">
+    <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Google Gemini" alt="Google Gemini" width="40" height="40"/></a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Machine_learning">
+    <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" title="Machine Learning" alt="Machine Learning" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.notion.so">
+    <img src="https://img.icons8.com/ios-filled/50/000000/notion.png" title="Notion" alt="Notion" width="40" height="40"/></a>&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" title="SQL Server" alt="SQL Server" width="40" height="40"/></a>&nbsp;
+  <a href="https://app.diagrams.net">
+    <a href="https://app.diagrams.net">
 
 </div>
 
